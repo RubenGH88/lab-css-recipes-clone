@@ -6,16 +6,15 @@ body{
 
 header{background-image: url(../images/apple-pie.jpg);
     background-size: cover;
-    height: 600px;
-    
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 
 h1{ text-align: center;
     color: white;
     font-size: 66px;
-    display:inline-block;
-    position: relative;
-    width:100%;
 }
 
 p {
